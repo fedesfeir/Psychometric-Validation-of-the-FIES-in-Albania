@@ -9,4 +9,4 @@ This project applies the **Rasch model** to the *Food Insecurity Experience Scal
 - Prevalence estimation by gender, area, income, education
 
 ## Full Report
-The full report is available in docs/RaschModelAlbania.pdf
+The full report is available in [RaschModelAlbania.pdf](docs/RaschModelAlbania.pdf).
