@@ -10,4 +10,4 @@ This project applies the **Rasch model** to the *Food Insecurity Experience Scal
 
 ## Full Report
 The full report is available in [RaschModelAlbania.pdf](docs/RaschModelAlbania.pdf).
-The dataset used for the analysis can be found in the [docs](docs/mydata.csv) folder.
+The dataset used for the analysis can be found in the [mydata.csv](docs/mydata.csv) folder.
